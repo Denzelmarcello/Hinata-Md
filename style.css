@@ -1,0 +1,22 @@
+img {
+    border-radius: 75px;
+}
+h1 {
+    font-size: 24px;
+}
+a {
+    background-color: lightseagreen;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    color: white;
+}
+body {
+    background-color: greenyellow;
+    color: white;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
